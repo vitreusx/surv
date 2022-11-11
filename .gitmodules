@@ -1,0 +1,3 @@
+[submodule "survshap"]
+	path = ext/survshap
+	url = https://github.com/MI2DataLab/survshap
