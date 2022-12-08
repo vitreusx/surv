@@ -16,6 +16,8 @@
 8. We've also performed a preliminary experiment on a real-world dataset (METABRIC) in a similar fashion to one described in (7).
 9. For experiments in (7) and (8), we've made a "coarse-grained analysis of the results.", i.e. we've made plots of the SHAP values at given time points and evaluated them qualitatively.
 
+The code is hosted on [Github](https://github.com/vitreusx/surv)
+
 **What are the difficulties?**
 
 1. The NN-specific explanations do not *seem* to correlate at all with the ground-truth, so a further analysis would be needed.
