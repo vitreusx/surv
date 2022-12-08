@@ -21,7 +21,7 @@ The code is hosted on [Github](https://github.com/vitreusx/surv)
 **What are the difficulties?**
 
 1. The NN-specific explanations do not *seem* to correlate at all with the ground-truth, so a further analysis would be needed.
-2. Although we evaluate the models quantitatively (via concordance index,) we still don't exactly know if the models we've trained for these dataset give "reasonable results". Of course, if the model is garbage, so shall be the explanations, so it would be wise to eliminate that cause of uncertainty.
+2. Although we evaluate the models quantitatively (via concordance index,) we still don't exactly know if the models we've trained for these dataset give "reasonable results". Of course, if the model does not perform well, the explanations given would be meaningless, so it would be wise to eliminate that cause of uncertainty.
 
 **What will be done next?**
 
