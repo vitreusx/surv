@@ -1,4 +1,5 @@
 captum
+kaleido
 matplotlib
 nbformat
 numpy
@@ -15,3 +16,4 @@ sklearn-pandas
 statsmodels
 torch
 torchtuples
+quantus
